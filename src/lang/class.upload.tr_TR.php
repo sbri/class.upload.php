@@ -48,6 +48,9 @@
     $translation['uploaded_too_big_html']       = 'Hata oluştu (sayfanızda belirttiğiniz MAX_FILE_SIZE boyutundan büyük bir dosya yükleyemezsiniz.).';
     $translation['uploaded_partial']            = 'Hata oluştu (dosyanın sadece bir kısmı yüklenebildi).';
     $translation['uploaded_missing']            = 'Hata oluştu (dosya seçilmemiş).';
+    $translation['uploaded_no_tmp_dir']         = 'Dosya yükleme hatası (geçici bir klasör eksik).';
+    $translation['uploaded_cant_write']         = 'Dosya yükleme hatası (dosya diske yazılamadı).';
+    $translation['uploaded_err_extension']      = 'Dosya yükleme hatası (dosya yükleme uzantısı tarafından durduruldu).';
     $translation['uploaded_unknown']            = 'Hata oluştu (hata tespit edilemedi).';
     $translation['try_again']                   = 'Hata oluştu. Lütfen tekrar deneyiniz.';
     $translation['file_too_big']                = 'Dosya izin verilenden daha büyük.';
